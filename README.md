@@ -2,15 +2,14 @@
 
 - I'm 15 years old
 - I programming iOS and iPadOS apps in Swift
-- I love Xcode
 - I love Apple
 
 ## Social 📷
 
 - [info@technikabo.com](mailto:info@technikabo.com)
 - [lassestolley.com](https://lassestolley.com)
-- [Instagram](https://www.instagram.com/technikabo/)
-- [Twitter](https://mobile.twitter.com/Technikabo)
+- [Instagram](https://www.instagram.com/lassestolley)
+- [Twitter](https://mobile.twitter.com/lasse_stolley)
 
 ## Apps 📱
 
