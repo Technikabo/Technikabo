@@ -6,7 +6,7 @@
 
 ## Social 📷
 
-- [info@technikabo.com](mailto:info@technikabo.com)
+- [info@lassestolley.com](mailto:info@lassestolley.com)
 - [lassestolley.com](https://lassestolley.com)
 - [Instagram](https://www.instagram.com/lassestolley)
 - [Twitter](https://mobile.twitter.com/lasse_stolley)
