@@ -8,7 +8,7 @@
 
 - [info@lassestolley.com](mailto:info@lassestolley.com)
 - [lassestolley.com](https://lassestolley.com)
-- [Blog]([https://mobile.twitter.com/lasse_stolley](https://blog.lassestolley.com))
+- [Blog](https://blog.lassestolley.com)
 - [Instagram](https://www.instagram.com/lassestolley)
 - [Twitter](https://mobile.twitter.com/lasse_stolley)
 
