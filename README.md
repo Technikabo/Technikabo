@@ -1,13 +1,9 @@
 ## Hi, I'm Lasse Stolley 👋
 
 - I love Swift and SwiftUI
-
 - I like JavaScript
-
 - I like to travel in ICE
-
 - I like to experience new things
-
 - I am open to meet other people
 
 ## Social 🙋‍♂️
