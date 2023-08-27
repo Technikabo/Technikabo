@@ -6,14 +6,14 @@
 - I like to experience new things
 - I am open to meet other people
 
-## Social 🙋‍♂️
+## Socials 🙋‍♂️
 
 - E-Mail: [info@lassestolley.com](mailto:info@lassestolley.com)
 - Website: [lassestolley.com](https://lassestolley.com)
-- Travel Blog: [blog.lassestolley.com](https://blog.lassestolley.com)
-- Twitter: [@lasse_stolley](https://mobile.twitter.com/lasse_stolley)
+- Travel Blog: [leben-im-zug.de](https://leben-im-zug.de)
 - Instagram: [@lassestolley](https://www.instagram.com/lassestolley)
+- X: [@lasse_stolley](https://x.com/lasse_stolley)
 
-## iOS Apps 📱
+## Apps 📱
 
 - [Scan & Copy](https://apps.apple.com/de/app/scan-copy/id1567797344)
