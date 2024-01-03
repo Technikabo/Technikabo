@@ -1,15 +1,13 @@
 ## Hi, I'm Lasse Stolley 👋
 
-- I love Swift and SwiftUI
-- I like JavaScript
-- I like to travel in ICE
-- I like to experience new things
-- I am open to meet other people
+- I develop iOS apps
+- I like Swift and SwiftUI
+- I like to travel with trains
 
 ## Socials 🙋‍♂️
 
 - E-Mail: [info@lassestolley.com](mailto:info@lassestolley.com)
-- Website: [lassestolley.com](https://lassestolley.com)
+- Personal website: [lassestolley.com](https://lassestolley.com)
 - Travel Blog: [leben-im-zug.de](https://leben-im-zug.de)
 - Instagram: [@lassestolley](https://www.instagram.com/lassestolley)
 - X: [@lasse_stolley](https://x.com/lasse_stolley)
