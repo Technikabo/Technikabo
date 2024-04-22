@@ -7,8 +7,7 @@
 ## Socials 🙋‍♂️
 
 - E-Mail: [info@lassestolley.com](mailto:info@lassestolley.com)
-- Personal website: [lassestolley.com](https://lassestolley.com)
-- Travel Blog: [leben-im-zug.de](https://leben-im-zug.de)
+- Website: [lassestolley.com](https://lassestolley.com)
 - Instagram: [@lassestolley](https://www.instagram.com/lassestolley)
 - X: [@lasse_stolley](https://x.com/lasse_stolley)
 
