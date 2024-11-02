@@ -2,11 +2,10 @@
 
 - I develop iOS apps
 - I like Swift and SwiftUI
-- I like to travel with trains
 
 ## Socials 🙋‍♂️
 
-- E-Mail: [info@lassestolley.com](mailto:info@lassestolley.com)
+- E-Mail: [me@lassestolley.com](mailto:me@lassestolley.com)
 - Website: [lassestolley.com](https://lassestolley.com)
 - Instagram: [@lassestolley](https://www.instagram.com/lassestolley)
 - X: [@lasse_stolley](https://x.com/lasse_stolley)
