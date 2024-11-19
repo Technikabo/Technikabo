@@ -8,7 +8,6 @@
 - E-Mail: [me@lassestolley.com](mailto:me@lassestolley.com)
 - Website: [lassestolley.com](https://lassestolley.com)
 - Instagram: [@lassestolley](https://www.instagram.com/lassestolley)
-- X: [@lasse_stolley](https://x.com/lasse_stolley)
 
 ## Apps 📱
 
